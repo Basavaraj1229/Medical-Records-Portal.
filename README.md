@@ -211,7 +211,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
+- **Basavraju kokane** - *Initial work* - [https://basavaraj1229.github.io/Portfolio-Profile/)
 
 ## 🤝 Acknowledgments
 
@@ -222,7 +222,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support and questions, please create an issue in the GitHub repository or contact [your-email@example.com].
+For support and questions, please create an issue in the GitHub repository or contact [ https://mail.google.com/mail/u/0/?fs=1&to=rajukokane61@gmail.com&tf=cm]
 
 ---
 
