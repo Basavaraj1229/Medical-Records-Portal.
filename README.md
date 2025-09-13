@@ -24,6 +24,24 @@ A comprehensive web-based healthcare management system built with Java, JSP, Ser
 - **Specialist Management**: Manage medical specializations
 - **Patient Overview**: Monitor patient registrations and appointments
 
+## 📸 Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+*Main landing page with navigation and login options*
+
+### Patient Dashboard
+![Patient Dashboard](screenshots/patient-dashboard.png)
+*Patient dashboard showing appointment booking and management features*
+
+### Doctor Dashboard
+![Doctor Dashboard](screenshots/doctor-dashboard.png)
+*Doctor interface for managing appointments and patient information*
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+*Administrative panel for managing doctors, patients, and system settings*
+
 ## 🚀 Technology Stack
 
 - **Frontend**: JSP, HTML5, CSS3, Bootstrap 5, JavaScript
