@@ -205,9 +205,7 @@ mvn test
 - [ ] Add appointment reminder system
 - [ ] Implement doctor availability calendar
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+ 
 
 ## 👥 Authors
 
